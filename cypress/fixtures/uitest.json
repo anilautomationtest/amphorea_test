@@ -1,6 +1,16 @@
 {
 "fname":"Test Fn",
 "lname":"Test Ln",
-"url":"https://amphora.net"
+"url":"https://amphora.net",
+"product_urls": {
+    "symphony": "https://amphora.net/product/symphony/",
+    "alchemy": "https://amphora.net/product/alchemy/",
+    "var-module": "https://amphora.net/product/var-module/",
+    "trade-confirmations-manager": "https://amphora.net/product/trade-confirmations-manager/",
+    "freight-manager": "https://amphora.net/product/freight-manager/",
+    "claims-manager": "https://amphora.net/product/claims-manager/",
+    "symphony-credit": "https://amphora.net/product/symphony-credit/"
+  }
+
 }
   
